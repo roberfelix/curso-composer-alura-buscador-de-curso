@@ -1,0 +1,23 @@
+
+COMPOSER: Gerenciador de dependencias
+
+classmap : para classe legado
+file : para funções
+psr4: para mapear os componentes
+
+
+componentes
+GuzzLeePhp: para request de URL
+PhpCrawler: varredura conteudo de site
+
+composer --dev <nomeComponent> para baixar em ambiente de Desenvolvimento
+PhpUnit para realizar testes na apliação
+phpcs:para seguir padrão no código
+Phan: testar erro no código
+
+
+
+IMPORTANTE! Para subir em prod composer --no dev <projeto>
+
+
+
